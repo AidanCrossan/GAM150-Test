@@ -1,0 +1,4 @@
+sceneSetups:
+- path: D:/super-test-project-gam150-master/lecture 02/04. player squisher/Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1

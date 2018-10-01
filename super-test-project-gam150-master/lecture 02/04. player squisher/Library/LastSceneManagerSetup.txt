@@ -1,0 +1,5 @@
+sceneSetups:
+- path: D:/super-test-project-gam150-master/lecture 02/05. situational physics for
+    platforms/Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
